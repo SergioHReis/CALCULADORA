@@ -1,4 +1,4 @@
-#CALCULADORA# Calculadora com Interface Gráfica em Python
+##Calculadora com Interface Gráfica em Python
 
 Este projeto implementa uma calculadora com interface gráfica utilizando a biblioteca tkinter do Python. 
 Com esta calculadora, você pode inserir expressões matemáticas na entrada de texto e obter os resultados imediatamente com um simples clique no botão "Calcular". 
